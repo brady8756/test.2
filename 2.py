@@ -19,3 +19,5 @@ else:
   st.write('正常')
 if 轉速>=car_simulation.get('轉速'):
   st.write('即將超過轉速')
+else:
+  st.write('正常')
